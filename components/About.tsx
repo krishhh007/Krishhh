@@ -3,7 +3,7 @@ import { FaHandPaper } from "react-icons/fa";
 const About = () => {
   const [heading] = useState<string>("hello everyone");
   const [description] = useState<string>(
-"I'm Krishnaraj Shetty, a talented and aspiring Software Developer and UI Designer with a passion for creating exceptional app experiences. With a good knowledge of Figma, Android Studio, Flutter, React Native, Node.js, MySQL, GitHub, Firebase, and Netlify, I combine my technical skills with a keen eye for aesthetics to craft visually appealing and user-friendly interfaces." );
+"I am a Computer Science and Engineering student with proven experience in software development at an early-stage startup. I have a strong understanding of SOLID principles and am eager to leverage my skills to enhance my domain and technical expertise. I am committed to contributing to the organization's overall success by applying my knowledge and dedication effectively" );
   return (
     <div className="py-6 border-b border-zinc-700">
       <h3 className="text-gray-400 capitalize text-lg font-medium">about me</h3>
