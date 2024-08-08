@@ -52,7 +52,7 @@ const Contacts = () => {
         id: 7,
         icon: <BiUserCircle className="text-gray-200" />,
         title: "download CV",
-        url: "/files/KrishnarajnoSCV.pdf",
+        url: "/files/Krishnaraj_Resume.pdf",
       },
     ]);
   return (
