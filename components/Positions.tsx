@@ -6,21 +6,17 @@ const Positions = () => {
     {
       id: 1,
       image: "/images/ROS.jpg",
-      role: "Rosette Smart Bottles-Full Stack Flutter Intern",
+      role: "Rosette Smart Life- COO & Software developer",
       type: "hybrid",
-      date: "05/2023 - present, 3mos",
+      date: "05/2023 - 07/2024",
       skills: [
-        { id: 1, name: "Figma", image: "/images/figma.png" },
-        { id: 2, name: "Flutter", image: "/images/flutter.png" },
-        { id: 3, name: "bloc", image: "/images/bloc.webp" },
-        { id: 4, name: "Firebase", image: "/images/icons8-firebase-48.png" },
-        { id: 5, name: "REST API's", image: "/images/icons8-rest-api-64.png" },
-        { id: 6, name: "GitHub", image: "/images/git.png" },
-        { id: 7, name: "Jira", image: "/images/icons8-jira-48.png" },
+       
+        { id: 1, name: "Flutter/Mobile Application development", image: "/images/flutter.png" },
+        { id: 2, name: "Software development", image: "/images/flutter.png" },
+       
       ],
       links: [
-        { id: 1, url: "https://www.rosettesmartbottles.com/" },
-        { id: 2, url: "https://shorturl.at/zGIW0" }
+        { id: 1, url: "https://rosettesmartlife.com/" },
       ],
     },
   ]);
